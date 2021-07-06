@@ -1,0 +1,2 @@
+nn.c:24:6:mean_subtract	32	static
+nn.c:30:6:run_nn	72	static
